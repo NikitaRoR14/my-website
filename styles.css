@@ -1,6 +1,108 @@
 body{
     font-family: 'Roboto Condensed', sans-serif;
+    background-color: gray;
+}
+.main_logo{
+   
+    
+width: 337px;
+height: 225px;
+
+
+
+        
+
+    
 }
 .card{
-    background-color: #fff;
+    
+width: 337px;
+height: 495px;
+
+background: #574F69;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+margin-left: auto;
+    margin-right: auto;
+
+
+}
+.card-title{
+    
+   
+    width: 200px;
+    height: 23px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+    
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-left:auto;
+    margin-right:auto;
+}
+.card-desc{
+
+    
+width: 193px;
+height: 35px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+margin-left:auto;
+margin-right:auto;
+margin-top: 25px;
+
+color: #000000;
+}
+.card-inst{
+    
+width: 70px;
+height: 70px;
+
+}
+.card-tube{
+    width: 90px;
+height: 61px;
+
+}
+.card-git{
+    width: 101px;
+height: 98px;
+
+}
+.inst{
+    margin: 10px;
+    width: 70px;
+    height: 70px;
+}
+.tube{
+    margin: 10px;
+    width: 90px;
+height: 61px;
+}
+.git{
+    margin: 10px;
+    margin-top: 0;
+    width: 101px;
+height: 98px;
+}
+.pictures{
+   
+    display: flex;
 }
