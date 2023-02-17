@@ -72,35 +72,35 @@ color: #000000;
 }
 .card-inst{
     
-width: 70px;
-height: 70px;
+width: 64px;
+height: 64px;
 
 }
 .card-tube{
-    width: 90px;
-height: 61px;
+    width: 64px;
+height: 64px;
 
 }
 .card-git{
-    width: 101px;
-height: 98px;
+    width: 64px;
+height: 64px;
 
 }
 .inst{
-    margin: 10px;
-    width: 70px;
-    height: 70px;
+    
+    width: 64px;
+    height: 64px;
 }
 .tube{
-    margin: 10px;
-    width: 90px;
-height: 61px;
+    
+    width: 64px;
+height: 64px;
 }
 .git{
-    margin: 10px;
-    margin-top: 0;
-    width: 101px;
-height: 98px;
+    
+    
+    width: 64px;
+height: 64px;
 }
 .pictures{
    
