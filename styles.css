@@ -87,22 +87,21 @@ height: 64px;
 
 }
 .inst{
-    
+    margin:auto;
     width: 64px;
     height: 64px;
 }
 .tube{
-    
+    margin:auto;
     width: 64px;
 height: 64px;
 }
 .git{
-    
-    
+    margin:auto;
     width: 64px;
 height: 64px;
 }
 .pictures{
-   margin:auto;
+  
     display: flex;
 }
